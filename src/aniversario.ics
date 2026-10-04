@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mateus//Aniversario 25 anos//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:aniversario-mateus-20270830@aniversario-mateus
+DTSTAMP:20261004T120000Z
+DTSTART;VALUE=DATE:20270830
+DTEND;VALUE=DATE:20270831
+SUMMARY:Aniversário de Mateus — 25 anos
+DESCRIPTION:Reserve a data! Horário e local da comemoração serão defin
+ idos depois.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
